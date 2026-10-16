@@ -6,3 +6,4 @@
 !/storage/sessions/.gitkeep
 /storage/*.log
 .DS_Store
+/scripts/.nat-state
